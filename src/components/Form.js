@@ -44,7 +44,7 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
                         className="filter-todo"
                         name="todos"
                     >
-                        <option value="all">All</option>
+                        <option value="all">All All</option>
                         <option value="completed">Completed</option>
                         <option value="uncompleted">Uncompleted</option>
                     </select>
